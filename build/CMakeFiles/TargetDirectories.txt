@@ -1,0 +1,3 @@
+/Users/emilychen/Desktop/2023W1/CPSC 427/Eggly-Buddies/build/CMakeFiles/egglybuddies.dir
+/Users/emilychen/Desktop/2023W1/CPSC 427/Eggly-Buddies/build/CMakeFiles/edit_cache.dir
+/Users/emilychen/Desktop/2023W1/CPSC 427/Eggly-Buddies/build/CMakeFiles/rebuild_cache.dir
